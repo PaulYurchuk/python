@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="file" type="JSON" />
       <mapping ext="jason" type="JSON" />
+      <mapping ext="config" type="JSON" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="task2" type="Python" />
     </extensionMap>
