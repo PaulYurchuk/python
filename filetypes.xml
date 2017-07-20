@@ -7,6 +7,7 @@
       <mapping ext="config" type="JSON" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="task2" type="Python" />
+      <mapping pattern="213" type="Python" />
     </extensionMap>
   </component>
 </application>
