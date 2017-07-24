@@ -6,6 +6,7 @@
       <mapping ext="jason" type="JSON" />
       <mapping ext="config" type="JSON" />
       <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="Task2" type="PLAIN_TEXT" />
       <mapping pattern="task2" type="Python" />
       <mapping pattern="213" type="Python" />
     </extensionMap>
